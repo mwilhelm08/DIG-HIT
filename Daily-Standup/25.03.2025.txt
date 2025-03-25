@@ -1,0 +1,7 @@
+Status: Pflichtenheft fertig + Grundriss fast fertig + Youtrack Dokumentation Begonnen (Bugs aufgetreten)
+
+Plan bis nächtes Meeting:
+MW: Mit Rafainer reden wegen Youtrack Bugs, Referenzbilder sortieren + zuteilen.
+OL: zugeteilten Raum ohne texturen großteils modelieren, YOUTrack Bugfixen 
+MP: Grundriss feritg + Youtrack Dokumentation
+TH: zugeteilten Raum grob modellieren, Grundausstattung kreieren, Vorrausläufige Texturen, YouTrack fix, Basismodell
