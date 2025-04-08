@@ -1,7 +1,9 @@
-MW: Alle Gänge (Grünes), Druckerraum, Base Models für Tische und Sessel.
+MW: Alle Gänge (Grünes), Tisch mit Fach vorne und Drehsessel, Floor Texture, Roof Texture + 1 Square, Wall Texture, Licht (Square), Waschbecken, Fenster
 
-TH:	927, 928, 929
+TH:	927, 928, 929, Heizung, Tafel, Mistkübel, Mistkübel draußen
 
-OL:	931, 923, 922, 938, 937
+OL:	931, 923, 922, 938, 937, Regal, Tür
 
-MP:	930
+MP:	930, Leiste, Steckdose, Kleiderhaken, Licht (Rechteck), Fernseher + Fernbedienung und Halterung
+
+ 
