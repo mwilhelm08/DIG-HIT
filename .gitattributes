@@ -1,2 +1,1 @@
-*.mb filter=lfs diff=lfs merge=lfs -text
-*.ma filter=lfs diff=lfs merge=lfs -text
+Dig-Hit-Maya/scenes/Master.mb filter=lfs diff=lfs merge=lfs -text
